@@ -1,6 +1,6 @@
 # Instagram-Reach-Forecasting
 
-Instagram reach forecasting is the processing of predicting he number of people that an 
+Instagram reach forecasting is the processing of predicting the number of people that an 
 Instaram post, story, or other content will be reached, based on historical data and various other factors.
 
 For content creators and anyone using Instagram professionally, predicting the reach can be valuable for planning and optimizing their social media strategy. By understanding how their 
