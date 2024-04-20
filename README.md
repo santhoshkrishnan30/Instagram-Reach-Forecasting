@@ -103,7 +103,7 @@ fig.add_trace(go.Bar(x=day_stats['Day'],
 fig.add_trace(go.Bar(x=day_stats['Day'], 
                      y=day_stats['std'], 
                      name='Standard Deviation'))
-fig.update_layout(title='Instagram Reach by Day of the Week', 
+fig.update_layout(title='Instagram Reach by Day of the Week',
                   xaxis_title='Day', 
                   yaxis_title='Instagram Reach')
 fig.show()
